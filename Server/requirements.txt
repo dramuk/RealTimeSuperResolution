@@ -1,0 +1,10 @@
+pandas==0.24.0
+Pillow==5.0.0
+numpy==1.16.5
+Keras==2.2.4
+tensorboard==2.0.1
+tensorflow==2.0.0
+scipy==1.2.1
+scikit-image==0.15.0
+scikit-learn==0.21.0
+websockets==8.1
