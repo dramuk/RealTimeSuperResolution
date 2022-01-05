@@ -18,7 +18,7 @@ $ python serv.py
 
 ```
 @inproceedings{dramuk,
-  author = {Lodha, Ishaan, Kolur, Lakshana, Krishnan, Krishnan, Dheenadayalan, Kumar, Sitaram, Dinkar, and Nandi, Sidhartha},
+  author = {Lodha, Ishaan, and Kolur, Lakshana, and Krishnan, Krishnan, and Dheenadayalan, Kumar, and Sitaram, Dinkar, and Nandi, Sidhartha},
   title = {Cost Optimized Video Transfer Using Real Time Super Resolution Convolutional Neural Networks},
   year = {2022},
   publisher = {Association for Computing Machinery},
