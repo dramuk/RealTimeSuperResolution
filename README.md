@@ -12,3 +12,16 @@ If the upload is to GDrive path to uploaded zip is not required on the server si
 ```
 $ python serv.py
 ```
+
+
+@inproceedings{dramuk,
+author = {Lodha, Ishaan, Kolur, Lakshana, Krishnan, Krishnan, Dheenadayalan, Kumar, Sitaram, Dinkar, and Nandi, Sidhartha},
+title = {Cost Optimized Video Transfer Using Real Time Super Resolution Convolutional Neural Networks},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {9th ACM IKDD CODS and 27th COMAD},
+numpages = {9},
+location = {Bangalore, India},
+series = {CODS COMAD 2022}
+}
